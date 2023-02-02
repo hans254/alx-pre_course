@@ -1,1 +1,1 @@
-Starting to code today, so cool
+I studied Software Engineering at Alx
